@@ -1,19 +1,6 @@
-<!-- Banner / Intro -->
-<h1 align="center">👋 Hello, I'm <span style="color:#d91e4d;">Mohammad Ariful ISLAM</span></h1>
-<h3 align="center">🌍 Public Health Professional | 💡 Digital Health Enthusiast | 💼 Health Program Manager at <a href="https://cpintl.org/bangladesh">Community Partners International (CPI) - Bangladesh Mission</a></h3>
-
-<p align="center">
-  <a href="mailto:bgd.cpms@cpintl.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/arifulislambgd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/Arifulislam_BGD"><img src="https://img.shields.io/badge/Twitter(X)-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
-  <a href="https://facebook.com/Arifulislam43BGD"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-</p>
-
----
-
 ## 👨‍💻 About Me  
 
-I am a **Public Health Professional** working in the **Humanitarian and Development Sector**, driven by the mission to improve health outcomes in vulnerable populations.  
+A **Public Health Professional** working in the **Humanitarian and Development Sector**, driven by the mission to improve health outcomes in vulnerable populations.  
 
 With extensive field experience, I understand the real-world challenges in global health — and I believe **digital transformation** is key to building resilient, inclusive, and effective health systems.  
 
@@ -109,29 +96,10 @@ Here are some of the tools and platforms I use or am currently exploring:
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cpms-bgd&show_icons=true&theme=radical&title_color=d91e4d&icon_color=4298B5" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpms-bgd&layout=compact&theme=radical&title_color=d91e4d" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cpms-bgd&bg_color=ffffff&color=41273B&line=d91e4d&point=4298B5&area=true&hide_border=true"/>
-  </a>
-</p>
-
----
-
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="mailto:healthbgd@cpintl.org"><img src="https://img.shields.io/badge/Email-healthbgd@cpintl.org-d91e4d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/arifulislambgd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bgd.cpms@cpintl.org"><img src="https://img.shields.io/badge/Email-bgd.cpms@cpintl.org-d91e4d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://cpintl.org/"><img src="https://img.shields.io/badge/Website-CPIntl.org-d91e4d?style=for-the-badge"/></a>
 </p>
 
